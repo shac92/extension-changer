@@ -18,7 +18,7 @@ def rename_files(folder_path):
             print(f"Renamed: {filename} -> {new_filename}")
 
 # Specify the folder path where the files are located
-folder_path = '*insert new folder pather here'
+folder_path = '*insert new folder path here'
 
 # Call the function to rename the files
 rename_files(folder_path)
